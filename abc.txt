@@ -1,0 +1,34 @@
+Support Ticket System Knowledge Base
+
+1. Login Issues
+- Customers may face trouble logging in due to forgotten passwords, locked accounts, or server errors.
+- Password reset links are valid for 24 hours.
+- If the account is locked after 3 failed attempts, it can be unlocked by contacting support.
+
+2. Payment Issues
+- Payment failures are often caused by expired cards, insufficient balance, or network issues.
+- Refunds are processed within 5–7 business days.
+- Customers can update payment methods in their account settings.
+
+3. Bug Reports
+- Common bugs include app crashes during file uploads and slow performance on older devices.
+- Users should provide screenshots and error messages when reporting bugs.
+
+4. Feature Requests
+- Customers may request new features such as dark mode, multi-language support, and advanced analytics.
+- Feature requests are reviewed by the product team every quarter.
+
+5. Ticket Status & Priority
+- Ticket statuses include: Open, In Progress, On Hold, Resolved, and Closed.
+- Priorities: Low, Medium, High, and Critical.
+- Critical tickets are handled within 2 hours of submission.
+
+6. Customer Satisfaction Ratings
+- After resolution, customers can rate support on a scale of 1 to 5.
+- A rating of 4 or 5 indicates satisfaction, while 1 to 3 suggests dissatisfaction.
+
+7. Communication Channels
+- Tickets can be raised via Email, Web Portal, or Live Chat.
+- Live Chat tickets are usually resolved faster compared to email.
+
+End of Knowledge Base
