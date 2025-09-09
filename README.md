@@ -6,6 +6,9 @@ The chatbot can answer questions based on a custom knowledge base (`abc.txt`) an
 
 ---
 
+<img width="1411" height="593" alt="image" src="https://github.com/user-attachments/assets/96c3f8a4-48c6-4a78-ae84-9e1f38a854e7" />
+
+
 ## Features
 
 - **Retrieval-based answers** using FAISS vector search  
